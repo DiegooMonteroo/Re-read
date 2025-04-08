@@ -1,0 +1,93 @@
+body{
+    font-family: 'Courier Prime', system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+.colorazul{
+    background-color: rgb(14, 91, 29);
+}
+.colorverde{
+    background-color: rgb(8, 88, 60);
+    margin-bottom: 5%;
+}
+.colorblanco{
+    color: aliceblue;
+}
+.margen{
+    margin-left: 100px;
+    margin-right: auto;
+    text-align: center;
+}
+.margen2{
+    margin-left: 30px;
+    text-align: center;
+}
+.h1{
+
+}
+.margen3{
+    margin-left: 20px;
+}
+.fuente{
+    font-size: 100px;
+}
+.font{
+    font-size: 30px;
+}
+.margen5{
+    margin-left: 130px;
+}
+.font1{
+    font-size: 35px;
+}
+.margen7{
+    margin-right: 200px;
+    margin-top: 25px;
+}
+.margen8{
+    margin-right: 180px;
+    margin-top: 25px;
+}
+.margen11{
+    margin-top: 25px;
+}
+.font3{
+    font-size: 25px;
+}
+.margen10{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.margen11{
+    margin-top: 20px;
+}
+.font2{
+    font-size: 28px;
+}
+.font4{
+    font-size: 22px;
+}
+.mover{
+    margin-left: 30px;
+}
+.margen15{
+    margin-top: 25px;
+}
+.margen16{
+    margin-top: 25px;
+}
+.margen19{
+    margin-top: 100px;
+}
+
+.mover1{
+    margin-top: 1%;
+    margin-right: 1%;
+    text-align: center;
+}
+.mover3{
+    margin-right: 300px;
+}
+.total{
+    margin-left: 100px;
+}
